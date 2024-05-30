@@ -2,9 +2,6 @@
 
 This project implements a binary tree in C++ with various operations to insert nodes and traverse the tree. The program includes functions to create nodes, insert nodes, and perform different tree traversals such as pre-order, in-order, and post-order. It also features a function to visually display the tree structure.
 
-## Repository Name
-binary-tree-operations
-
 ## Features
 
 - **Insert Node**: Adds a new node to the binary tree.
